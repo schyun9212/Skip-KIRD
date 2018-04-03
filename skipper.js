@@ -1,7 +1,7 @@
 var targets = document.getElementsByClassName('title');
 var len = targets.length;
 
-var interval = 2000;
+var interval = 3000;
 
 function run(count){
     
