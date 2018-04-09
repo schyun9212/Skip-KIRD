@@ -1,6 +1,6 @@
-# KIDR Learning Skipper
+# KIDR Learning Bypasser
 
-This is a script code for skipping KIRD learning contents.
+This is a script code for bypassing KIRD learning contents.
 
 If you run the source code, it automatically selects menu on the left and generates an event that sends the pre-entered learning time.
 
