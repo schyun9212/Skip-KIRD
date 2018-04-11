@@ -12,7 +12,7 @@ If you run the source code, it automatically selects menu on the left and genera
 
 3. open developer tool (Press F12 in Chrome browser)
 
-4. Go to the console tab and copy and paste skipper.js code.
+4. Go to the console tab and copy and paste bypasser.js code.
 
 # Causion
 
