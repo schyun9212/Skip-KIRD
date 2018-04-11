@@ -16,7 +16,7 @@ If you run the source code, it automatically selects menu on the left and genera
 
 # Causion
 
-If this code is not work edit these variables
+If this code is not work. Edit these variables.
 
 ```
 interval
